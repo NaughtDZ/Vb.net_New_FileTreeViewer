@@ -1,0 +1,12 @@
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\bin\Debug\TreeViewAsFileExplore.exe.config
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\bin\Debug\TreeViewAsFileExplore.exe
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\bin\Debug\TreeViewAsFileExplore.pdb
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\bin\Debug\TreeViewAsFileExplore.xml
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\obj\Debug\WindowsApp1.Form1.resources
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\obj\Debug\WindowsApp1.Resources.resources
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\obj\Debug\TreeViewAsFileExplore.vbproj.GenerateResource.cache
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\obj\Debug\TreeViewAsFileExplore.vbproj.CoreCompileInputs.cache
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\obj\Debug\TreeViewAsFileExplore.exe
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\obj\Debug\TreeViewAsFileExplore.xml
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\obj\Debug\TreeViewAsFileExplore.pdb
+G:\文档\程序\TreeViewAsFileExplore\TreeViewAsFileExplore\TreeViewAsFileExplore\obj\Debug\TreeViewAsFileExplore.vbprojAssemblyReference.cache
